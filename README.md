@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aaliosman" alt="aaliosman" /></a> </p>
 
-- 🌱 I’m currently learning **React.js MongoDB Node.js**
+- 🌱 Skills **JavaScript Html Css React.js MongoDB Node.js**
 
 - 👨‍💻 All of my projects are available at [https://aaliosman.github.io/Ali-portfolio/](https://aaliosman.github.io/Ali-portfolio/)
 
-- 💬 Ask me about **HTML, CSS, JAVASCRIPT, SASS. BOOTSTRAP,**
+- 💬 Ask me about **JavaScript Html Css React.js MongoDB Node.js**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
